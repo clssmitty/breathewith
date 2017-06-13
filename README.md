@@ -16,3 +16,4 @@ You'll find that the output just prints a line with the most recent data to the 
 To make easy serial / Arduino reads in development environments the following plugins are helpful:
 - [Unreal ArduinoKit](https://forums.unrealengine.com/showthread.php?118851-FREE-ArduinoKit-Cross-Platform-Arduino-Plugin-for-UE4)
 - [Unity Uduino](https://forum.unity3d.com/threads/released-uduino-the-easiest-arduino-unity-communication.443788/)
+- [Serial Read - Unity](https://github.com/DWilches/SerialCommUnity)
